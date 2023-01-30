@@ -8,6 +8,8 @@ public class GitAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitAppApplication.class, args);
+	ibrahim ibra=new ibrahim();
+		ibra.returnMsg();
 	}
 
 }
