@@ -10,6 +10,7 @@ public class GitAppApplication {
 		SpringApplication.run(GitAppApplication.class, args);
 	ibrahim ibra=new ibrahim();
 		ibra.returnMsg();
+		System.out.println("ahla bikommmm");
 	}
 
 }
