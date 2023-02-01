@@ -3,4 +3,7 @@ public class aziz {
     public void helloWorld(){
         System.out.println('hello world!!')
     }
+    public void HelloGit(){
+        System.out.println("Hello GIT");
+    }
 }
